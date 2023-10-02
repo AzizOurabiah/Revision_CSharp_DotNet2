@@ -1,0 +1,14 @@
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Heritage\obj\Debug\net6.0\Heritage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Heritage\obj\Debug\net6.0\Heritage.AssemblyInfoInputs.cache
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Heritage\obj\Debug\net6.0\Heritage.AssemblyInfo.cs
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Heritage\obj\Debug\net6.0\Heritage.csproj.CoreCompileInputs.cache
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Heritage\bin\Debug\net6.0\Heritage.exe
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Heritage\bin\Debug\net6.0\Heritage.deps.json
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Heritage\bin\Debug\net6.0\Heritage.runtimeconfig.json
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Heritage\bin\Debug\net6.0\Heritage.dll
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Heritage\bin\Debug\net6.0\Heritage.pdb
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Heritage\obj\Debug\net6.0\Heritage.dll
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Heritage\obj\Debug\net6.0\refint\Heritage.dll
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Heritage\obj\Debug\net6.0\Heritage.pdb
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Heritage\obj\Debug\net6.0\Heritage.genruntimeconfig.cache
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Heritage\obj\Debug\net6.0\ref\Heritage.dll
