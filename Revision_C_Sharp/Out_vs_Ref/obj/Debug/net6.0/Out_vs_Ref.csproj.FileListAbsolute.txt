@@ -1,0 +1,14 @@
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Out_vs_Ref\bin\Debug\net6.0\Out_vs_Ref.exe
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Out_vs_Ref\bin\Debug\net6.0\Out_vs_Ref.deps.json
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Out_vs_Ref\bin\Debug\net6.0\Out_vs_Ref.runtimeconfig.json
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Out_vs_Ref\bin\Debug\net6.0\Out_vs_Ref.dll
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Out_vs_Ref\bin\Debug\net6.0\Out_vs_Ref.pdb
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Out_vs_Ref\obj\Debug\net6.0\Out_vs_Ref.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Out_vs_Ref\obj\Debug\net6.0\Out_vs_Ref.AssemblyInfoInputs.cache
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Out_vs_Ref\obj\Debug\net6.0\Out_vs_Ref.AssemblyInfo.cs
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Out_vs_Ref\obj\Debug\net6.0\Out_vs_Ref.csproj.CoreCompileInputs.cache
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Out_vs_Ref\obj\Debug\net6.0\Out_vs_Ref.dll
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Out_vs_Ref\obj\Debug\net6.0\refint\Out_vs_Ref.dll
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Out_vs_Ref\obj\Debug\net6.0\Out_vs_Ref.pdb
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Out_vs_Ref\obj\Debug\net6.0\Out_vs_Ref.genruntimeconfig.cache
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Out_vs_Ref\obj\Debug\net6.0\ref\Out_vs_Ref.dll
