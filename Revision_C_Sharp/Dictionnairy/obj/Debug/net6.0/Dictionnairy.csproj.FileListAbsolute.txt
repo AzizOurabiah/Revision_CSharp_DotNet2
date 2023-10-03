@@ -1,0 +1,14 @@
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Dictionnairy\bin\Debug\net6.0\Dictionnairy.exe
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Dictionnairy\bin\Debug\net6.0\Dictionnairy.deps.json
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Dictionnairy\bin\Debug\net6.0\Dictionnairy.runtimeconfig.json
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Dictionnairy\bin\Debug\net6.0\Dictionnairy.dll
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Dictionnairy\bin\Debug\net6.0\Dictionnairy.pdb
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Dictionnairy\obj\Debug\net6.0\Dictionnairy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Dictionnairy\obj\Debug\net6.0\Dictionnairy.AssemblyInfoInputs.cache
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Dictionnairy\obj\Debug\net6.0\Dictionnairy.AssemblyInfo.cs
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Dictionnairy\obj\Debug\net6.0\Dictionnairy.csproj.CoreCompileInputs.cache
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Dictionnairy\obj\Debug\net6.0\Dictionnairy.dll
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Dictionnairy\obj\Debug\net6.0\refint\Dictionnairy.dll
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Dictionnairy\obj\Debug\net6.0\Dictionnairy.pdb
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Dictionnairy\obj\Debug\net6.0\Dictionnairy.genruntimeconfig.cache
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\Dictionnairy\obj\Debug\net6.0\ref\Dictionnairy.dll

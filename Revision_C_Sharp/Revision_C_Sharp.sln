@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heritage", "Heritage\Herita
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilisationExperessionLambda", "UtilisationExperessionLambda\UtilisationExperessionLambda.csproj", "{9E42EDC2-FC62-4D9C-AA2C-6768F3F03D64}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionnairy", "Dictionnairy\Dictionnairy.csproj", "{0CE6AF94-D3B4-4DF1-AC8A-48420E093EA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9E42EDC2-FC62-4D9C-AA2C-6768F3F03D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E42EDC2-FC62-4D9C-AA2C-6768F3F03D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E42EDC2-FC62-4D9C-AA2C-6768F3F03D64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CE6AF94-D3B4-4DF1-AC8A-48420E093EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE6AF94-D3B4-4DF1-AC8A-48420E093EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE6AF94-D3B4-4DF1-AC8A-48420E093EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE6AF94-D3B4-4DF1-AC8A-48420E093EA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
