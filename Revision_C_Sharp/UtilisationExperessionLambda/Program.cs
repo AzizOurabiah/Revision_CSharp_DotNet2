@@ -1,4 +1,6 @@
 ﻿
+using System.Diagnostics;
+
 namespace UtilisationExperessionLambda
 {
     public class Customer
@@ -16,11 +18,11 @@ namespace UtilisationExperessionLambda
             //Ecrire une liste des Customers
             List<Customer> listCust = new List<Customer>() {
                                                             new Customer()
-                                                                { CustomerId = 1, FirstName = "Aziz", LastName = "Aziz", EmailAddress = "Aziz", IsDirty = false },
+                                                                { CustomerId = 1, FirstName = "Aziz-1", LastName = "Aziz-1", EmailAddress = "Aziz", IsDirty = false },
                                                             new Customer()
-                                                                { CustomerId = 2, FirstName = "Aziz", LastName = "Aziz", EmailAddress = "Aziz", IsDirty = false }};
+                                                                { CustomerId = 2, FirstName = "Aziz-2", LastName = "Aziz-2", EmailAddress = "Aziz", IsDirty = false }};
             listCust.Add(
-                new Customer() { CustomerId = 3, FirstName = "Aziz", LastName = "Aziz", EmailAddress = "Aziz", IsDirty = false }
+                new Customer() { CustomerId = 3, FirstName = "Aziz-3", LastName = "Aziz-3", EmailAddress = "Aziz", IsDirty = false }
                 );
 
             Customer foundCustomer = null;
@@ -44,6 +46,14 @@ namespace UtilisationExperessionLambda
 
             if (query.Count() > 0)
                 foundCustomer2 = query.ToList()[0];
+
+            var filtredList = listCust.FindAll(c => c.FirstName.StartsWith("Az")).OrderBy(c => c.FirstName).ToList();
+
+            //Console.WriteLine(filtredList.Count);
+
+            Console.WriteLine(filtredList[0].LastName);
+
+
         }
     }
 }
