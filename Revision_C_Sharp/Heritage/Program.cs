@@ -19,6 +19,8 @@
 
             bc.MethodeNotVirtual_BaseClass();
             bc.MethodeVirtuel_BaseClass();
+
+            ChildClass1 cc1 = (ChildClass1) new BaseClass();
         }
     }
 }

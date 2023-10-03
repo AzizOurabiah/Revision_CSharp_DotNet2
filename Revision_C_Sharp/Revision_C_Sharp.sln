@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heritage", "Heritage\Heritage.csproj", "{DE694F05-3D4A-4B6E-BECB-8AE416FA7782}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilisationExperessionLambda", "UtilisationExperessionLambda\UtilisationExperessionLambda.csproj", "{9E42EDC2-FC62-4D9C-AA2C-6768F3F03D64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DE694F05-3D4A-4B6E-BECB-8AE416FA7782}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE694F05-3D4A-4B6E-BECB-8AE416FA7782}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE694F05-3D4A-4B6E-BECB-8AE416FA7782}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E42EDC2-FC62-4D9C-AA2C-6768F3F03D64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E42EDC2-FC62-4D9C-AA2C-6768F3F03D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E42EDC2-FC62-4D9C-AA2C-6768F3F03D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E42EDC2-FC62-4D9C-AA2C-6768F3F03D64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
