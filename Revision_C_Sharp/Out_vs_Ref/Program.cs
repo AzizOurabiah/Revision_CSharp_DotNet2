@@ -56,6 +56,11 @@
 
             AssignationNouvelObjetByVal1(p1);
             Console.WriteLine("Valeur de Personne   Après   l'appel de la fonction  id {0},  Nom {1} ", p1.id, p1.nom);
+
+            ///Note:
+            ///Quand on fait avec reférece ça va changer de toute les manière
+            ///
+
             #endregion
 
 
