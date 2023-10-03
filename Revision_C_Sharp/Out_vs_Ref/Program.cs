@@ -29,6 +29,37 @@
             var result2 = By_Out(out c);
             Console.WriteLine("Valeur de la variable c après l'appel à la fonction est : {0} ", c);
 
+            Console.WriteLine("/////////////////////// Example des objets ////////////////////////// ");
+
+            #region Travailler avec les objets
+            ///**
+            ///Example 1 : By val
+            ///Il n'y a pas de changement par ce que la fonction AssignationNouvelObjetByVal elle crée un nouveau objet dans la ram nouvelle référence 
+            ///**
+            Personne p1 = new Personne(111, "Alain");
+
+            Console.WriteLine("Valeur de Personne  avant l'appel de la fonction id {0},  Nom {1} ", p1.id, p1.nom);
+
+
+            AssignationNouvelObjetByVal(p1);
+            Console.WriteLine("Valeur de Personne   Après   l'appel de la fonction  id {0},  Nom {1} ",p1.id, p1.nom);
+
+            ///**
+            ///Example 2 : By val
+            ///Il y a des changement par ce que la fonction AssignationNouvelObjetByVal1 
+            ///elle garde la même référence de l'objet 
+            ///elle modifie les valeur de l'objet crée un nouveau objet 
+            ///**
+
+            Console.WriteLine("Valeur de Personne  avant l'appel de la fonction id {0},  Nom {1} ", p1.id, p1.nom);
+
+
+            AssignationNouvelObjetByVal1(p1);
+            Console.WriteLine("Valeur de Personne   Après   l'appel de la fonction  id {0},  Nom {1} ", p1.id, p1.nom);
+            #endregion
+
+
+        
         }
         public static int By_Ref(ref int a)
         {
@@ -40,12 +71,25 @@
             b += b;
             return b;
         }
-
         public static int By_Out(out int num)
         {
             int number = 5;
             num = number;
             return num;
         }
-    }
+
+        public static void AssignationNouvelObjetByVal(Personne p1)
+        {
+            p1 = new Personne(222, "Richard");
+            //return p1;
+        }
+
+        public static void AssignationNouvelObjetByVal1(Personne p1)
+        {
+            //p1 = new Personne(222, "Richard");
+            p1.id = 222;
+            p1.nom = "Richard";
+            //return p1;
+        }
+    }  
 }
