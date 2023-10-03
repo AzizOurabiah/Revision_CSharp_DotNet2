@@ -1,0 +1,14 @@
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\ComparaisonDesVariables\bin\Debug\net6.0\ComparaisonDesVariables.exe
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\ComparaisonDesVariables\bin\Debug\net6.0\ComparaisonDesVariables.deps.json
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\ComparaisonDesVariables\bin\Debug\net6.0\ComparaisonDesVariables.runtimeconfig.json
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\ComparaisonDesVariables\bin\Debug\net6.0\ComparaisonDesVariables.dll
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\ComparaisonDesVariables\bin\Debug\net6.0\ComparaisonDesVariables.pdb
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\ComparaisonDesVariables\obj\Debug\net6.0\ComparaisonDesVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\ComparaisonDesVariables\obj\Debug\net6.0\ComparaisonDesVariables.AssemblyInfoInputs.cache
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\ComparaisonDesVariables\obj\Debug\net6.0\ComparaisonDesVariables.AssemblyInfo.cs
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\ComparaisonDesVariables\obj\Debug\net6.0\ComparaisonDesVariables.csproj.CoreCompileInputs.cache
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\ComparaisonDesVariables\obj\Debug\net6.0\ComparaisonDesVariables.dll
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\ComparaisonDesVariables\obj\Debug\net6.0\refint\ComparaisonDesVariables.dll
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\ComparaisonDesVariables\obj\Debug\net6.0\ComparaisonDesVariables.pdb
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\ComparaisonDesVariables\obj\Debug\net6.0\ComparaisonDesVariables.genruntimeconfig.cache
+C:\Users\Aziz\Desktop\Formation TI\Work_Space\Revision_S_Sharp\Revision_C_Sharp\ComparaisonDesVariables\obj\Debug\net6.0\ref\ComparaisonDesVariables.dll
