@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Heritage
 {
-    internal class ChildClass2
+    internal interface Interface1
     {
+        void MethodeInterfac1();
     }
 }

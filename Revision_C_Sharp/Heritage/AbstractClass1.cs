@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Heritage
 {
-    internal class ChildClass3 : BaseClass
+    internal abstract class AbstractClass1
     {
+        public abstract void MethodeAbstract_dans_ClassAbstract1();
+       
     }
 }

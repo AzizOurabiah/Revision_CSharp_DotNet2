@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Heritage
 {
-    internal class ChildClass1 : BaseClass
+    internal class ChildClass1ForBaseClasse : BaseClass
     {
         public override void MethodeVirtuel_BaseClass()
         {
