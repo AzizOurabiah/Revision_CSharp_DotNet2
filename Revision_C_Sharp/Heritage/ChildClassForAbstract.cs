@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Heritage
 {
-    internal class ChildClass3 : BaseClass
+    internal class ChildClassForAbstract :  AbstractClass1
     {
+        public override void MethodeAbstract_dans_ClassAbstract1()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

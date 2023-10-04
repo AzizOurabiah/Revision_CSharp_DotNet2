@@ -8,5 +8,6 @@ namespace Heritage
 {
     internal interface Interface2
     {
+        public void MethodeInterfac2();
     }
 }
