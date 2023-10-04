@@ -21,3 +21,8 @@
 *.csproj
 /Revision_C_Sharp/PrimaryNumber/bin/Debug/net6.0
 *.dll
+/Revision_C_Sharp/PrimaryNumber/obj/Debug/net6.0
+/Revision_C_Sharp/PrimaryNumber/obj
+/Revision_C_Sharp/PrimaryNumber/Program.cs
+/Revision_C_Sharp/TemperatureProcheZero/Program.cs
+/Revision_C_Sharp/Revision_C_Sharp.sln
