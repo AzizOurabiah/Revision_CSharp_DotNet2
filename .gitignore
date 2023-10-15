@@ -28,3 +28,7 @@ test1.txt
 *.dll
 /Revision_C_Sharp/PrimaryNumber/obj/Debug/net6.0
 /Revision_C_Sharp/PrimaryNumber/obj
+/Revision_C_Sharp/ConvertNumberInCaracter/obj/Debug/net6.0
+/Revision_C_Sharp/ConvertNumberInCaracter/obj
+/Revision_C_Sharp/ConvertNumberInCaracter/bin/Debug/net6.0
+/Revision_C_Sharp
