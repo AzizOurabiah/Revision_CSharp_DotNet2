@@ -11,15 +11,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Out_vs_Ref", "Out_vs_Ref\Ou
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemperatureProcheZero", "TemperatureProcheZero\TemperatureProcheZero.csproj", "{55A3DA20-C8FB-4D28-9C99-B6A0DF45553F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseFunction", "ReverseFunction\ReverseFunction.csproj", "{87B3A8A9-BCB4-478E-B1FA-0249A21C841F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseFunction", "ReverseFunction\ReverseFunction.csproj", "{87B3A8A9-BCB4-478E-B1FA-0249A21C841F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PyramidNumber", "PyramidNumber\PyramidNumber.csproj", "{68D578FD-27D2-4A95-A95F-7C4643937214}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PyramidNumber", "PyramidNumber\PyramidNumber.csproj", "{68D578FD-27D2-4A95-A95F-7C4643937214}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PyramidLetter", "PyramidLetter\PyramidLetter.csproj", "{F952E3B3-D333-49B3-B8A4-5ED831990309}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PyramidLetter", "PyramidLetter\PyramidLetter.csproj", "{F952E3B3-D333-49B3-B8A4-5ED831990309}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertNumberInCaracter", "ConvertNumberInCaracter\ConvertNumberInCaracter.csproj", "{9484563C-E43F-4CEF-80C5-EA7E59A500FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConvertNumberInCaracter", "ConvertNumberInCaracter\ConvertNumberInCaracter.csproj", "{9484563C-E43F-4CEF-80C5-EA7E59A500FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factoriel", "Factoriel\Factoriel.csproj", "{1A71FAA4-D011-4F78-B3A6-A103478FD11B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factoriel", "Factoriel\Factoriel.csproj", "{1A71FAA4-D011-4F78-B3A6-A103478FD11B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionReverse1", "FunctionReverse1\FunctionReverse1.csproj", "{F99C4924-D0BD-4A64-98DE-6788442E0854}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{1A71FAA4-D011-4F78-B3A6-A103478FD11B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A71FAA4-D011-4F78-B3A6-A103478FD11B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A71FAA4-D011-4F78-B3A6-A103478FD11B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F99C4924-D0BD-4A64-98DE-6788442E0854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F99C4924-D0BD-4A64-98DE-6788442E0854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F99C4924-D0BD-4A64-98DE-6788442E0854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F99C4924-D0BD-4A64-98DE-6788442E0854}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
